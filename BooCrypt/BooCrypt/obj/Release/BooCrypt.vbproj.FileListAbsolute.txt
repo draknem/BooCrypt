@@ -1,0 +1,15 @@
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Release\Проект 11.exe
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Release\Проект 11.pdb
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Release\Проект 11.xml
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\ResolveAssemblyReference.cache
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Задание.Form1.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Задание.Form2.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Задание.Resources.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\BooCrypt.vbproj.GenerateResource.Cache
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Проект 11.exe
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Проект 11.xml
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Проект 11.pdb
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Release\Проект 11.exe.manifest
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Release\Проект 11.application
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Проект 11.exe.manifest
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Release\Проект 11.application

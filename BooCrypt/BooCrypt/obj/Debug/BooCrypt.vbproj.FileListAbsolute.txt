@@ -1,0 +1,15 @@
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.vbproj.GenerateResource.Cache
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Debug\BooCrypt.exe.manifest
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Debug\BooCrypt.application
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Debug\BooCrypt.exe
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Debug\BooCrypt.pdb
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\bin\Debug\BooCrypt.xml
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.Form1.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.Form2.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.Resources.resources
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.exe.manifest
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.application
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.exe
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.xml
+E:\Desktop\Personal works\encrypt\BooCrypt\BooCrypt\obj\Debug\BooCrypt.pdb

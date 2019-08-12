@@ -1,0 +1,20 @@
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Задание.Form1.resources
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.vbproj.GenerateResource.Cache
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.exe
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.pdb
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.xml
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Задание.Resources.resources
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.exe
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.xml
+D:\Documents\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.pdb
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.exe
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.xml
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.pdb
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.exe
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.pdb
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\bin\Debug\Проект 11.xml
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Задание.Form1.resources
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Задание.Resources.resources
+E:\Desktop\MTUCI works\Inf\univ\2 семестр\Лабораторная 11\Проект 11\Проект 11\obj\Debug\Проект 11.vbproj.GenerateResource.Cache
